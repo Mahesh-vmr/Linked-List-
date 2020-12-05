@@ -1,7 +1,6 @@
 /**
  * Doubly linked list.
- * 
- * @author sudheer-k-bhat
+ 
  **/
 #ifndef DLIST_H
 #define DLIST_H
