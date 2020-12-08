@@ -1,7 +1,7 @@
 /**
  * Set implementation.
  * 
- * @author sudheer-k-bhat
+ * @author Mahesh 
  **/
 #ifndef SET_H
 #define SET_H
